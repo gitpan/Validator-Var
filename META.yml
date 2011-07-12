@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Validator-Var
-version:            0.02
+version:            0.03
 abstract:           variable validator with expandable list of checkers.
 author:
     - Fedor Semenov <fedor.v.semenov@gmail.com>
